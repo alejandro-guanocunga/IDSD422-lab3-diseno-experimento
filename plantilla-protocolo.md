@@ -1,7 +1,7 @@
 
 #  Experimento de ubicación de producto
 
-**Equipo:** Solo · **Integrantes:** Guanocunga Alejandro · **Fecha:** 27/10/2026
+**Equipo:** Solo · **Integrantes:** Guanocunga Alejandro · **Fecha:** 19/11/2026
 
 Completa cada sección. Usa commits por sección; la historia del repositorio se revisa.
 
